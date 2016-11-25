@@ -1,2 +1,2 @@
 # hello-world
-Hello world repository
+Hello this is my fisrt time with github. Looking good so far
